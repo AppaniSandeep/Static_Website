@@ -41,7 +41,7 @@ project-folder/
 
 1. Clone or download the repository:
 
-   "git clone https://github.com/your-username/tourism-static-website.git"
+   "git clone https://github.com/your-username/Static_Website.git"
 
 2.Open index.html in any modern web browser.
 
