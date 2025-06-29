@@ -22,13 +22,14 @@ This is a responsive **static tourism website** showcasing popular destinations 
 - **HTML5**
 - **CSS3**
 - **Bootstrap 5**
-- **Vanilla JavaScript**
+- **JavaScript**
 
 ---
 
 ## 🗂️ File Structure
 
 project-folder/
+
 ├── index.html # Main HTML file with all sections
 ├── index.css # Custom styling for the site
 └── README.md # Project documentation
