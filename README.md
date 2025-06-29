@@ -1,6 +1,6 @@
 # 🌐 Tourism Static Website
 
-This is a responsive **static tourism website** showcasing popular destinations in India, built using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**. The website allows users to navigate between sections like Home, Favourite Places, and detailed views for each location using smooth transitions.
+This is a **static website** showcasing popular destinations in India, built using **HTML**, **CSS**, **Bootstrap**, and **JavaScript**. The website allows users to navigate between sections like Home, Favourite Places, and detailed views for each location using smooth transitions.
 
 ---
 
